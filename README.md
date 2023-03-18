@@ -1,10 +1,10 @@
 # Tugas Praktikum 1 - Layout Web
-## Pemrograman Web
+## Pemrograman Web 2
 
 ```sh
 Nama   : Raihan Tantowi
 Nim    : 312110229
-Matkul : Pemrograman Web
+Matkul : Pemrograman Web 2
 ```
 #### Berikut adalah html dari layout sederhana 
 * **File index.html :**
